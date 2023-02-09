@@ -1,2 +1,2 @@
 # readme
-STREACT 팀 소개
+BUZZLE 팀 소개
